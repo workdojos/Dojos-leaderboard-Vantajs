@@ -1,4 +1,4 @@
-**[Live Demo](https://players.workmates.live/)** (Takes a while to load/cache)
+**[Live Demo](https://players.workmates.live/)** (Takes a while to load/cache because it has 100+ characters)
 
 
 ## Credits
