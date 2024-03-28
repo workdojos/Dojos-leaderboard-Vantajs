@@ -1,4 +1,4 @@
-**[Live Demo](https://players.workmates.live/)** (Takes a while to load/cache because it has 100+ characters)
+**[Live Demo](https://players.workmates.live/)** (Takes a while to load/cache (probably 15-20 seconds) because it has 100+ characters, reducing the characters to a dozen or two (and rerducing the size of your images) will significanly reduce load time)
 
 
 ## Credits
